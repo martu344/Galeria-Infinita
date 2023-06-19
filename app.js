@@ -8,8 +8,7 @@ let numerosdeclick = 0
 
 
 function contador(){
-            click ++; 
-        
+            click ++;      
 }
 
 async function buscando (numeroBuscador){
